@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hanabi-sama
-- 👀 I’m interested in coding and learning newthing
+- 👋 Hi, I’m phucphuc (aka @hanabi-sama) 
+- 👀 I’m interested in coding, reading book and learning newthing
 - 🌱 I’m currently learning english, python and front-end web ...
 - 📫 How to reach me, please click on symbol ... 
 <a href="mailto:phuc1999x@gmail.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" height=22px width=22px alt="anh gmail"></a>
